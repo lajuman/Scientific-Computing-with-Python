@@ -15,7 +15,6 @@ This comprehensive course will guide you through the fundamentals of scientific 
 <li>Learn Tree Traversal by Building a Binary Search Tree
 </ul>
 Scientific Computing with Python Projects
-It's time to put your Python skills to the test. By completing these projects, you'll demonstrate that you have a strong foundational knowledge of Python. And you'll qualify for freeCodeCamp's Scientific Computing with Python Certification.
 <ul>
 <li>Arithmetic Formatter
 <li>Time Calculator
