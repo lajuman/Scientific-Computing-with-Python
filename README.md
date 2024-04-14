@@ -17,10 +17,10 @@ This comprehensive course will guide you through the fundamentals of scientific 
 Scientific Computing with Python Projects
 <ul>
 <li><a href="https://github.com/lajuman/Scientific-Computing-with-Python/tree/main/Arithmetic%20Formatter">Arithmetic Formatter</a>
-<li>Time Calculator
-<li>Budget App
-<li>Polygon Area Calculator
-<li>Probability Calculator
+<li><a href="https://github.com/lajuman/Scientific-Computing-with-Python/tree/main/Time%20Calculator">Time Calculator</a>
+<li><a href="https://github.com/lajuman/Scientific-Computing-with-Python/tree/main/Budget%20App">Budget App</a>
+<li><a href="https://github.com/lajuman/Scientific-Computing-with-Python/tree/main/Polygon%20Area%20Calculator">Polygon Area Calculator</a>
+<li><a href="">Probability Calculator</a>
 </ul>
 
 Scientific Computing with Python - freeCodeCamp
