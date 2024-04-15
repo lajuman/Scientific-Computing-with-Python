@@ -3,7 +3,7 @@ This comprehensive course will guide you through the fundamentals of scientific 
 
 <h3>Courses</h3>
 <ul>
-<li>String Manipulation by Building a Cipher
+<li><a href="https://github.com/lajuman/Scientific-Computing-with-Python/tree/main/Cipher">String Manipulation by Building a Cipher</a>
 <li>How to Work with Numbers and Strings by Implementing the Luhn Algorithm
 <li>Lambda Functions by Building an Expense Tracker
 <li>Python List Comprehension by Building a Case Converter Program
